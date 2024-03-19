@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T16:13:05.325Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="Zdhyxk28FAMuExZKNk63" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T16:14:49.115Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="BFJgaeJihnrtMTmMwpHe" version="24.0.7" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
     <mxGraphModel dx="2013" dy="2147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
             <mxPoint x="15" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7oYgEldjF4M5UXVwprbC-767" value="Microservices" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" vertex="1" parent="7oYgEldjF4M5UXVwprbC-765">
+        <mxCell id="7oYgEldjF4M5UXVwprbC-767" value="Microservices / Cloud Logging / Monitoring" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" vertex="1" parent="7oYgEldjF4M5UXVwprbC-765">
           <mxGeometry x="-11.58" y="-35.5" width="231.58" height="225.5" as="geometry" />
         </mxCell>
         <mxCell id="7oYgEldjF4M5UXVwprbC-768" value="GKE" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="7oYgEldjF4M5UXVwprbC-765">
@@ -299,6 +299,9 @@
         </mxCell>
         <mxCell id="7oYgEldjF4M5UXVwprbC-884" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.forward;" vertex="1" parent="1">
           <mxGeometry x="1347" y="210" width="30" height="16.8" as="geometry" />
+        </mxCell>
+        <mxCell id="7oYgEldjF4M5UXVwprbC-886" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7oYgEldjF4M5UXVwprbC-768" target="7oYgEldjF4M5UXVwprbC-759">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
