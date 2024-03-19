@@ -1,14 +1,13 @@
 openapi: 3.0.3
 info:
   title: NYC Yellow Taxi Trip Data - OpenAPI 3.0
-  description: >
+  description: >-
     This API allows users to interact with a dataset consisting of New York City (NYC) Yellow Taxi
     trip records, focusing on Yellow Medallion Taxicabs. It offers functionalities for scheduling trips,
     calculating routes, analyzing payment methods, searching for alternative routes, and consulting
     average fares. Premium users can schedule recurring trips and calculate the fastest or shortest
     routes. Regular users can access payment method analytics, alternative route searches, and fare
     consultations.
-  version: "1.0.0"
 
 tags:
   - name: Premium
